@@ -1,0 +1,89 @@
+proposal_id,title,existing_label,esg_agree,flag_agree,score_agree,proposal_agree,orig_esg,new_esg,orig_dims,new_dims,score_details,new_lc_flag
+9210,Indep. Audit of Supply Chain Risks,Supply Chain Risks,True,True,True,True,YES,YES,S,S,"S_dir:orig=9,new=9,agree=True; S_spec:orig=8,new=8,agree=True",False
+10028,Requesting Director Election Resignation Bylaw,Director Resignation Bylaw Processes,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=7,new=7,agree=True; E_spec:orig=5,new=5,agree=True; S_dir:orig=9,new=8,agree=True; S_spec:orig=8,new=8,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=8,new=7,agree=True",False
+9293,Independent Board Chair,Chairman Independence,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+7653,Proxy Access Amendments,Proxy Access,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=8,new=9,agree=True",False
+9671,Remove 1-Yr Holding Req. to Call Special Shareholder Meeting,Special Meetings,True,True,True,True,YES,YES,ES,ES,"E_dir:orig=8,new=8,agree=True; E_spec:orig=8,new=9,agree=True; S_dir:orig=8,new=7,agree=True; S_spec:orig=7,new=7,agree=True",False
+9978,Shareholder Right to Act by Written Consent,Written Consent,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=8,new=8,agree=True",False
+9423,Abortion & Consumer Data Privacy,Consumer Data Privacy,True,True,True,True,YES,YES,S,S,"S_dir:orig=8,new=8,agree=True; S_spec:orig=8,new=8,agree=True",False
+8578,Right to Act by Written Consent,Written Consent,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=8,new=8,agree=True",False
+10440,AI Principles and Board Oversight,Artificial Intelligence (AI),True,False,True,False,YES,YES,G,SG,,False
+10289,Board of Directors Accountability and Transparency Amendment,Directors Disclose Expected Hours of Allocation,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+9371,Independent Board Chair,Chairman Independence,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+9445,Simple Majority Vote,Simple Majority Voting,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+8947,Give Each Share an Equal Vote,Recapitalization (Stock Classes/Voting Rights),True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=8,new=8,agree=True",False
+10350,Advisory Vote Exec. Comp.,Say on Pay,True,True,True,True,YES,YES,G,G,"G_dir:orig=5,new=5,agree=True; G_spec:orig=7,new=7,agree=True",False
+9242,Set Up Discussion on Majority Support Shareholder Prop btw Board & Proponent,Shareholder Engagement,True,False,True,False,YES,YES,G,SG,,True
+9374,Political Contributions Congruency Report,Political Spending,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+9051,Shareholder Right to Remove Directors without Cause,Shareholder Right to Remove Directors,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=8,new=8,agree=True",False
+7754,Integrating Drug Pricing Risk into Exec. Comp. Policies,Performance Metrics Requirements,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=6,new=6,agree=True; G_dir:orig=8,new=7,agree=True; G_spec:orig=6,new=6,agree=True",False
+10058,"Report on Risks Created by the Company's Diversity, Equity, and Inclusion Efforts",Diversity,True,False,True,False,YES,YES,S,SG,"S_dir:orig=2,new=2,agree=True; S_spec:orig=7,new=7,agree=True",False
+7576,True Diversity Board Policy,Director Qualifications,True,True,True,True,YES,YES,G,G,"G_dir:orig=4,new=3,agree=True; G_spec:orig=8,new=8,agree=True",False
+10026,Report on Reducing Full Value Chain GHG Emissions,Climate Risk,True,True,True,True,YES,YES,E,E,"E_dir:orig=8,new=9,agree=True; E_spec:orig=7,new=7,agree=True",False
+10443,Report on Online Safety for Children,Child Safety,True,True,True,True,YES,YES,S,S,"S_dir:orig=9,new=8,agree=True; S_spec:orig=8,new=8,agree=True",False
+7736,Prohibit Paying Above-Market Returns on Nonqual Exec Savings Plans,Exec Retirement Benefits,True,False,True,False,YES,YES,G,SG,,False
+9334,Audited Report on Asset Retirement Obligations (AROs),Asset Retirement Obligations (AROs),True,True,True,True,YES,YES,E,E,"E_dir:orig=7,new=8,agree=True; E_spec:orig=8,new=8,agree=True",False
+10435,Policy for Director Transparency on Political & Charitable Giving,Political & Charitable Spending,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=2,new=3,agree=True; S_spec:orig=6,new=6,agree=True; G_dir:orig=3,new=4,agree=True; G_spec:orig=8,new=8,agree=True",False
+10033,Policy on Merchant Category Codes,Merchant Category Codes,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=3,new=2,agree=True; S_spec:orig=6,new=6,agree=True; G_dir:orig=7,new=6,agree=True; G_spec:orig=6,new=7,agree=True",False
+10241,Board Matrix,Board and CEO Diversity,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=7,new=7,agree=True; E_spec:orig=5,new=6,agree=True; S_dir:orig=9,new=8,agree=True; S_spec:orig=8,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+10217,Feasibility of Integrating Climate-Related Measures into Co’s Comp. Plans,Equity Comp Rules,True,True,True,True,YES,YES,EG,EG,"E_dir:orig=8,new=8,agree=True; E_spec:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
+8550,Reduce Special Meetings Ownership Req. to 10%,Special Meetings,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=9,new=9,agree=True",False
+9779,Performance Review of Audit and Compliance Committee,Performance Review of Audit Committee,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
+8750,Management Pay Clawback Authorization,Clawback,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+10394,Disclosure of Voting Results Based on Class of Shares,Vote Counting Standard,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+10423,Corporate Financial Sustainability Report,Sustainability Metrics,True,True,False,False,YES,YES,SG,SG,"S_dir:orig=2,new=2,agree=True; S_spec:orig=6,new=6,agree=True; G_dir:orig=7,new=4,agree=False; G_spec:orig=7,new=7,agree=True",False
+10384,Plans to Integrate ESG Metrics Into Executive Compensation,Add ESG Metrics to NEO Incentive Plans,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=6,new=6,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
+8534,Change in Organizational Form to Public Benefit Corporation,Corporate Purpose,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=9,new=9,agree=True; S_spec:orig=6,new=6,agree=True; G_dir:orig=9,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+8849,Board Oversight of Risks Related to Anticompetitive Practices,Board Oversight of Risk Management,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=7,new=8,agree=True; S_spec:orig=6,new=6,agree=True; G_dir:orig=7,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
+8353,Remove Professional Services Allowance for NEOs,NEO Benefits,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=9,new=9,agree=True",False
+9845,Report on Assessing Systemic Climate Risk from Retirement Plan Options,Social Policy,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=9,new=8,agree=True",False
+8728,Report on Lobbying,Lobbying,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=7,new=7,agree=True; S_dir:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+8779,Adopt Federal Securities Laws Mandatory Arbitration Bylaw,Mandatory Arbitration Bylaw,True,True,True,True,YES,YES,G,G,"G_dir:orig=2,new=2,agree=True; G_spec:orig=9,new=9,agree=True",False
+8201,Elect Each Director Annually,Declassify the Board,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=8,new=8,agree=True",False
+10191,Majority Vote for Director Election,Majority Voting for Directors,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+9157,Report on Risk Due to Restrictions on Reproductive Rights,Health Care,True,True,True,True,YES,YES,S,S,"S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True",False
+10368,Establish a Public Policy Committee,Establish New Board Committee & or Council,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=8,new=8,agree=True; E_spec:orig=6,new=5,agree=True; S_dir:orig=8,new=8,agree=True; S_spec:orig=6,new=5,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
+10176,Require CEO & Board to Hold 10x Compensation in Co. Shares,Board Required to Hold Common Stock,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=9,new=9,agree=True",False
+10094,Report on Material Risks Associated with Animal Welfare.,Animal Rights,True,True,True,True,YES,YES,S,S,"S_dir:orig=2,new=2,agree=True; S_spec:orig=7,new=7,agree=True",False
+7583,Use a Deferral Period for Annual Bonus Payments,Rules for Annual Cash Incentive Compensation,True,False,True,False,YES,YES,G,SG,,True
+7862,Report on Human Rights Impact Assessment,Human Rights,True,True,True,True,YES,YES,S,S,"S_dir:orig=9,new=8,agree=True; S_spec:orig=8,new=7,agree=True",False
+10080,Report on Risks of Politicized De-banking,,True,True,True,True,YES,YES,ES,ES,"E_dir:orig=3,new=2,agree=True; E_spec:orig=6,new=7,agree=True; S_dir:orig=4,new=3,agree=True; S_spec:orig=6,new=6,agree=True",False
+8813,Adopt Policy for Rule 10b5-1 Plans to Avoid Insider Trading,Transparency on 10b5-1 Trading,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+9868,Advisory Vote Exec. Comp.,Say on Pay,True,True,True,True,YES,YES,G,G,"G_dir:orig=5,new=5,agree=True; G_spec:orig=7,new=7,agree=True",False
+9718,Policy to Include Hourly Employees as Director Candidates,Employee Representative Director,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=7,new=7,agree=True; E_spec:orig=5,new=4,agree=True; S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
+9291,Report on Harassment and Discrimination Prevention Efforts,Employment Rights,True,True,True,True,YES,YES,S,S,"S_dir:orig=9,new=8,agree=True; S_spec:orig=8,new=8,agree=True",False
+9834,Advisory Vote on the Compensation of Our Named Directors,Director Compensation,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+8906,Report on Charitable Contributions,Charitable Giving,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=6,new=6,agree=True; S_spec:orig=7,new=8,agree=True; G_dir:orig=7,new=7,agree=True; G_spec:orig=8,new=8,agree=True",True
+9958,Report on Company Risks Associated with Pesticide Use in its Supply Chain,Pesticide Use,True,True,True,True,YES,YES,ES,ES,"E_dir:orig=8,new=8,agree=True; E_spec:orig=7,new=7,agree=True; S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True",False
+10453,Director Board Service,Limit Directors' Other Co. Board Membership,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=9,new=9,agree=True",False
+8474,Report on Antibiotics and Public Health Costs,Public Health,True,True,True,True,YES,YES,ES,ES,"E_dir:orig=8,new=8,agree=True; E_spec:orig=7,new=7,agree=True; S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True",False
+9689,Establish a New Board Committee on Decarbonization Risk,Climate Risk,True,True,True,True,YES,YES,EG,EG,"E_dir:orig=2,new=2,agree=True; E_spec:orig=7,new=7,agree=True; G_dir:orig=6,new=6,agree=True; G_spec:orig=8,new=7,agree=True",False
+9699,Report on Tax Transparency in Line with Global Reporting Initiative (GRI),Global Spending Transparency,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=7,agree=True; S_spec:orig=7,new=6,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=8,agree=True",False
+9780,Fair Elections & Bylaws Amendment,Require Shareholder Vote on Bylaws,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+9737,Report on Enforcement of Community Standards & User Content,Community Impact,True,False,True,False,YES,YES,S,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=8,new=8,agree=True",False
+7897,Allocation of Corporate Tax Savings,Factors Affecting Long Term Value,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=7,new=7,agree=True; S_spec:orig=5,new=6,agree=True; G_dir:orig=7,new=7,agree=True; G_spec:orig=6,new=6,agree=True",True
+9504,"Civil Rights, Non-Discrimination and Returns to Merit Audit",Civil Rights Audit,True,False,True,False,YES,YES,S,SG,"S_dir:orig=3,new=2,agree=True; S_spec:orig=7,new=7,agree=True",False
+8219,Racial Equity Audit,Racial/Social Justice,True,True,True,True,YES,YES,S,S,"S_dir:orig=9,new=9,agree=True; S_spec:orig=8,new=8,agree=True",False
+9646,Report on Efforts to Reduce Plastics Use,Environmental,True,True,True,True,YES,YES,E,E,"E_dir:orig=8,new=8,agree=True; E_spec:orig=7,new=7,agree=True",False
+10074,3rd Party Assessment of Respect for Freedom of Association & Collective Bargaining,Human Rights,True,True,True,True,YES,YES,S,S,"S_dir:orig=9,new=9,agree=True; S_spec:orig=8,new=8,agree=True",False
+10159,Lobbying Activities Report,Lobbying,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=7,new=7,agree=True; S_dir:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+7766,Repeal all Board-Adopted Bylaws without Shareholder Approval in Past Year,Repeal Bylaw Adopted w/o Shareholder Vote,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=9,new=9,agree=True",False
+10396,Amendment of Corporate Governance Guidelines,Amend Corp. Governance Guidelines,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=9,agree=True; G_spec:orig=9,new=9,agree=True",False
+9255,CEO Succession Planning Policy Amendment,CEO Succession Planning,True,False,True,False,YES,YES,G,SG,,True
+8443,Consider Employee Pay in Setting CEO Target Pay,Exec Pay Comparison,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=6,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
+9785,Report on Congruency of Political & Lobbying Spending,Lobbying and Political Spending,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=7,new=7,agree=True; E_spec:orig=6,new=7,agree=True; S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+9213,Issue Tax Transparency Report per GRI Tax Standard,Tax Transparency Standard,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=6,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=8,agree=True",False
+10407,Fair Treatment of Shareholder Nominees,Multiple Board Nominees for each Seat,True,False,True,False,YES,YES,G,EG,,True
+9943,Advisory Vote on Board Size and Related Vacancies,Advisory Vote on Board Size,True,True,True,True,YES,YES,G,G,"G_dir:orig=3,new=2,agree=True; G_spec:orig=8,new=8,agree=True",False
+9023,Limit Shareholder Rights for Proposal Submission,Limit Types of Shareholder Proposals,True,False,True,False,YES,YES,G,ESG,,False
+10365,Government Censorship Transparency Report,Government Censorship,True,True,False,False,YES,YES,SG,SG,"S_dir:orig=5,new=3,agree=False; S_spec:orig=7,new=7,agree=True; G_dir:orig=6,new=7,agree=True; G_spec:orig=7,new=7,agree=True",True
+10172,Amend Charter of the Board’s Railroad Safety Committee,Amend Board Committee Charter,True,True,True,True,YES,YES,ESG,ESG,"E_dir:orig=8,new=8,agree=True; E_spec:orig=6,new=6,agree=True; S_dir:orig=9,new=9,agree=True; S_spec:orig=8,new=8,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=8,new=8,agree=True",False
+9873,Report on Government Takedown Requests,Socio-Economic Systemic Risks,True,True,True,True,YES,YES,S,S,"S_dir:orig=2,new=2,agree=True; S_spec:orig=6,new=6,agree=True",False
+9303,Shareholder Ratification of Termination Pay,Golden Parachutes,True,True,True,True,YES,YES,G,G,"G_dir:orig=9,new=8,agree=True; G_spec:orig=9,new=9,agree=True",False
+9219,Assess Reputational & Financial Risk on Microsoft Involvement in Weapon Development,Reputational Risk,True,True,True,True,YES,YES,S,S,"S_dir:orig=3,new=3,agree=True; S_spec:orig=7,new=7,agree=True",False
+10476,Report on Median Racial and Gender Pay Gaps,Gender/Racial Equality,True,True,True,True,YES,YES,S,S,"S_dir:orig=8,new=8,agree=True; S_spec:orig=8,new=8,agree=True",False
+10392,Give Each Share An Equal Vote,Voting Rules,True,False,True,False,YES,YES,G,SG,,False
+8764,Cessation of all Executive Stock Option & Bonus Programs,Disallow Stock Options,True,True,True,True,YES,YES,G,G,"G_dir:orig=7,new=7,agree=True; G_spec:orig=6,new=7,agree=True",False
+8027,Say on Freq - Rec 1 Year,Say on Frequency,True,True,True,True,YES,YES,G,G,"G_dir:orig=8,new=7,agree=True; G_spec:orig=8,new=9,agree=True",False
+8007,Report on Whistleblower Policies & Practices,Whistleblower Policies,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=7,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=6,new=6,agree=True",False
+8606,Workforce Engagement in Governance,Workforce Engagement on Governance,True,True,True,True,YES,YES,SG,SG,"S_dir:orig=8,new=8,agree=True; S_spec:orig=7,new=6,agree=True; G_dir:orig=8,new=8,agree=True; G_spec:orig=7,new=7,agree=True",False
